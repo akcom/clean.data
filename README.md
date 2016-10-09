@@ -4,6 +4,7 @@ Getting & Cleaning Data Project for Coursera
 #Code Explanation
 
 The code is well documented and follows a straight forward flow:
+
 1. Combine the test & train subjects files
 2. Combine the test & train X files
 3. Combine the test & train y files
